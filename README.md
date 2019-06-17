@@ -5,8 +5,6 @@
 </p>
 <hr/>
 
-# Lisk-countdown
-
 A simple block-height countdown timer for Lisk made in React.
 
 Note: Don't forget to edit the public/index.html folder
